@@ -1,0 +1,11 @@
+{
+    "de-DE": {
+        "greeting": "Hallo",
+        "welcome_message": "Willkommen in unserer App!",
+        "goodbye": "Auf Wiedersehen",
+        "thank_you": "Danke",
+        "settings": "Einstellungen",
+        "profile": "Profil",
+        "language": "Sprache"
+      }
+}

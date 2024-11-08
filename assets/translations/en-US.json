@@ -1,0 +1,11 @@
+{
+    "en-US": {
+    "greeting": "Hello",
+    "welcome_message": "Welcome to our app!",
+    "goodbye": "Goodbye",
+    "thank_you": "Thank you",
+    "settings": "Settings",
+    "profile": "Profile",
+    "language": "Language"
+  }
+}
